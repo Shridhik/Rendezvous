@@ -13,9 +13,7 @@ A mobile Android app that allows you to reach out (chat/ form groups) and meet o
 # Demonstration:
  https://www.youtube.com/watch?v=wmC6GCo9iy0&feature=youtu.be
  
- <img width="1280" alt="screen shot 2018-01-21 at 3 30 34 pm" src="https://https://drive.google.com/file/d/1d-pz0VKA9KfwtYk-Kp2B43oCJTbL3emD/view?usp=sharing">
-
-
+ <img width="1280" alt="screen shot 2018-01-21 at 3 30 34 pm" src="https://user-images.githubusercontent.com/Shridhik/Rendezvous/master/Demo%20Pictures/Screenshot_20180611-00000.png">
 
 
 
